@@ -1,6 +1,7 @@
 README
-📽️Netflix - Exploratory Data Analysis🎬
-Overview
+📽️**Netflix - Exploratory Data Analysis**🎬
+
+**Overview:**
 This project involves performing exploratory data analysis (EDA) on Netflix's dataset, which contains information about TV shows and movies available on the platform. The analysis focuses on key metrics, content distribution, and patterns to extract insights about content types, genres, countries of origin, and ratings.
 Project Objective
 The main objective of this project is to analyze the Netflix dataset to identify trends and patterns in the content offered. The project aims to uncover:
